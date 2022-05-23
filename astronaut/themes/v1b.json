@@ -1,7 +1,7 @@
 {
-  "base": "https://raw.githubusercontent.com/readonlychild/mao-assets/main/astronaut/themes/v1/",
+  "base": "https://raw.githubusercontent.com/readonlychild/mao-assets/main/astronaut/themes/v1b/",
   "font": {
-    "name": "supercell.ttf", "sz": 14
+    "name": "canterbury.ttf", "sz": 14
   },
   "canvas": {
     "width": 420, "height": 260
