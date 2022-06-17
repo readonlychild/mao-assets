@@ -19,14 +19,14 @@
     "type1": {
       "width": 28,
       "names": [ 
-        { "role": ["astro"], "img": "astro.png" },
-        { "role": ["notify-react"], "img": "react.png" },
-        { "role": ["notify-preact"], "img": "preact.png" },
-        { "role": ["notify-vue"], "img": "vue.png" },
-        { "role": ["notify-svelte"], "img": "svelte.png" },
-        { "role": ["notify-lit"], "img": "lit.png" },
-        { "role": ["notify-solidjs"], "img": "solidjs.png" },
-        { "role": ["notify-webcomponents"], "img": "web-components.png" },
+        { "roles": ["*"], "img": "astro.png" },
+        { "roles": ["notify-react"], "img": "react.png" },
+        { "roles": ["notify-preact"], "img": "preact.png" },
+        { "roles": ["notify-vue"], "img": "vue.png" },
+        { "roles": ["notify-svelte"], "img": "svelte.png" },
+        { "roles": ["notify-lit"], "img": "lit.png" },
+        { "roles": ["notify-solidjs"], "img": "solidjs.png" },
+        { "roles": ["notify-webcomponents"], "img": "web-components.png" },
       ],
       "pos": [
         { "x": 111, "y": 58 },
@@ -44,18 +44,18 @@
     "type2": {
       "width": 48,
       "names": [
-        { "role": ["core"], "img": "core.png" },
-        { "role": ["sponsor"], "img": "sponsor.png" },
-        { "role": ["staff"], "img": "staff.png" },
-        { "role": ["maintainers"], "img": "maintainer.png" },
-        { "role": ["mods"], "img": "mod.png" },
-        { "role": ["contributor"], "img": "contributor.png" },
-        { "role": ["support-squad"], "img": "support.png" },
-        { "role": ["team-docs"], "img": "docs.png" },
-        { "role": ["early-adopter"], "img": "early-adopter.png" },
-        { "role": ["Server Booster"], "img": "booster.png" },
-        { "role": ["hacker-2022-05"], "img": "hacker.png" },
-        { "role": ["i18n-gang","i18n-gang-pt","i18n-gang-de","i18n-gang-fr","i18n-gang-es","i18n-gang-kr"], "img": "translator.png" }
+        { "roles": ["core"], "img": "core.png" },
+        { "roles": ["sponsor"], "img": "sponsor.png" },
+        { "roles": ["staff"], "img": "staff.png" },
+        { "roles": ["maintainers"], "img": "maintainer.png" },
+        { "roles": ["mods"], "img": "mod.png" },
+        { "roles": ["contributor"], "img": "contributor.png" },
+        { "roles": ["support-squad"], "img": "support.png" },
+        { "roles": ["team-docs"], "img": "docs.png" },
+        { "roles": ["early-adopter"], "img": "early-adopter.png" },
+        { "roles": ["Server Booster"], "img": "booster.png" },
+        { "roles": ["hacker-2022-05"], "img": "hacker.png" },
+        { "roles": ["i18n-gang","i18n-gang-pt","i18n-gang-de","i18n-gang-fr","i18n-gang-es","i18n-gang-kr"], "img": "translator.png" }
       ],
       "pos": [
         { "x": 12, "y": 114 },
