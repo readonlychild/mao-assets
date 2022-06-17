@@ -26,7 +26,7 @@
         { "roles": ["notify-svelte"], "img": "svelte.png" },
         { "roles": ["notify-lit"], "img": "lit.png" },
         { "roles": ["notify-solidjs"], "img": "solidjs.png" },
-        { "roles": ["notify-webcomponents"], "img": "web-components.png" },
+        { "roles": ["notify-webcomponents"], "img": "web-components.png" }
       ],
       "pos": [
         { "x": 111, "y": 58 },
