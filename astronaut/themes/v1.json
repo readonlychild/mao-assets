@@ -4,13 +4,13 @@
     "name": "supercell.ttf", "sz": 14
   },
   "canvas": {
-    "width": 420, "height": 260
+    "width": 420, "height": 260, "img": "canvas.png"
   },
   "avatar": {
     "width": 84, "x": 15, "y": 15
   },
   "avatarFrame": {
-    "width": 94, "x": 10, "y": 10
+    "width": 94, "x": 10, "y": 10, "img": "avatar-frame.png"
   },
   "username": {
     "x": 111, "y": 10, "sz": 24
