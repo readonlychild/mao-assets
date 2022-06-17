@@ -16,7 +16,7 @@
     "x": 111, "y": 10, "sz": 24
   },
   "badges": {
-    "tech": {
+    "type1": {
       "width": 28,
       "names": [ 
         { "role": ["astro"], "img": "astro.png" },
@@ -41,7 +41,7 @@
         { "x": 399, "y": 58 }
       ]
     },
-    "role": {
+    "type2": {
       "width": 48,
       "names": [
         { "role": ["core"], "img": "core.png" },
